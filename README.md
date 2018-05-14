@@ -4,6 +4,11 @@ github pdfmake: https://github.com/bpampuch/pdfmake
 
 #### Uso
 ```
-meteor npm i -S https://github.com/EcoLogicAG/pdfmake-browserify.git
+meteor npm i -S https://github.com/windgaucho/pdfmake-meteor.git/
 import pdfmake from 'pdfmake-meteor';
+```
+
+#### Source from
+```
+https://github.com/EcoLogicAG/pdfmake-browserify
 ```
